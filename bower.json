@@ -1,0 +1,9 @@
+{
+  "name": "FluidFont.js",
+  "version": "0.0.1",
+  "main": ["fluidfont.js"],
+  "ignore": [],
+  "dependencies": {
+    "jquery": "latest"
+  }
+}
