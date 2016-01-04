@@ -8,6 +8,6 @@ $('.resize').fluidFont();
 ```
 
 #####Download FluidFont.JS#####
-- [Download the latest release](https://github.com/simplefocus/FlowType.JS/archive/v1.1.0.zip).
-- Clone the repo: `git clone https://github.com/simplefocus/FlowType.JS.git`.
+- [Download the latest release](https://github.com/zcypret/FluidFont.js).
+- Clone the repo: `git clone https://github.com/zcypret/FluidFont.js.git`.
 - Install with [Bower](http://bower.io): `bower install FluidFont.js`.
